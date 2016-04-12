@@ -1,0 +1,17 @@
+# byte-compiled files
+*.pyc
+
+# swap files
+*.swp
+*.swap
+
+*.*~
+
+# pycache folder
+__pycache__/
+
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
